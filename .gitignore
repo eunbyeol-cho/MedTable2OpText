@@ -1,0 +1,11 @@
+*/__pycache__
+__pycache__/
+wandb/
+.ipynb_checkpoints
+figure/
+baseline/
+*.ipynb
+logs.log
+*.csv
+*.pickle
+run_scripts/snuh_command.sh
